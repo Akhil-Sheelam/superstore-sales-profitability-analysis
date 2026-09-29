@@ -151,6 +151,20 @@ Some of the main findings from the analysis include:
 
 > These findings describe patterns observed in the dataset and do not by themselves establish causal relationships.
 
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](executive_overview.png)
+
+### Product & Profitability
+
+![Product & Profitability](product_profitability.png)
+
+### Customer & Regional Analysis
+
+![Customer & Regional Analysis](Customer%20%26%20Regional%20Analysis.png)
+
 ## Project Structure
 
 ```text
@@ -163,3 +177,5 @@ superstore-sales-profitability-analysis/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+
+
